@@ -16,3 +16,5 @@ link3:
 ---
 
 Comes under diffent brands such as Zemismart, MoesHouse and Livolo
+
+Do not show battery state
